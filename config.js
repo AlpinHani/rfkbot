@@ -14,9 +14,9 @@
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whats', 'https://chat.whatsap'] // ganti jadi group lu
-global.owner = ['6289625556161'] // Put your number here //owner eval
-global.kontak = ['6289625556161']//Ketika ada yang ngetik #owner
+global.linkGC = ['https://chat.whatsapp.com/DKfsblwOCTRBa9rrAmI7JA'] // ganti jadi group lu
+global.owner = ['6282287750102'] // Put your number here //owner eval
+global.kontak = ['6282287750102']//Ketika ada yang ngetik #owner
 global.mods = ['62896255561617'] // Want some help?
 global.prems = ['62896255561610'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -47,20 +47,20 @@ xteamkey = 'Dawnfrostkey'
 namaig = 'GAK ADA :)'
 namagithub = 'Privat Syg'
 kasihcaption = `Nih kak`
-namakontak1 = 'PilarGntg 😱'
-namakontak2 = 'CacaGblk'
+namakontak1 = 'Alpin'
+namakontak2 = 'Hanii'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = '©ZEUS BOTZ' // ganti aja
-global.author = 'CacaSepongPilar :V' // ganti aja
+global.packname = '©AlpinHani' // ganti aja
+global.author = 'AlpinHamni :V' // ganti aja
 
 //yyy
-bc = 'ZEUS' //ZEUS BOTZ Broadcast
-footer = '\n©ZEUS BOTZ'
-namabot = 'ZEUS BOTZ'
-namalu = 'Pilarrr'
+bc = 'ALPIN' //AlpinHani BOTZ Broadcast
+footer = '\n©AlpinHani Botz'
+namabot = 'AlpinHani Botz'
+namalu = 'Alpinn'
 
 
 // 
