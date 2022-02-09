@@ -14,13 +14,14 @@
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/DKfsblwOCTRBa9rrAmI7JA'] // ganti jadi group lu
-global.owner = ['6282287750102'] // Put your number here //owner eval
-global.kontak = ['6282287750102']//Ketika ada yang ngetik #owner
-global.mods = ['62896255561617'] // Want some help?
-global.prems = ['62896255561610'] // Premium user has unlimited limit
+global.linkGC = ['https://chat.whatsapp.com/DKfsblwOCTRBa9rrAmI7JA', ''] // ganti jadi group lu
+global.owner = ['6282287750102','6285799743965'] // Put your number here //owner eval
+global.kontak = ['6282287750102','6285799743965'] //Ketika ada yang ngetik #owner
+global.mods = ['0'] // Want some help?
+global.prems = ['6289625556161','62896255561613'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
+  rey: 'https://server-api-rey.herokuapp.com',
   nrtm: 'https://nurutomo.herokuapp.com', 
   xteam: 'https://api.xteam.xyz',
   zahir: 'https://zahirr-web.herokuapp.com',
@@ -32,6 +33,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey' (apikey kalian)
+  'https://server-api-rey.herokuapp.com': 'apirey',
   'https://api.xteam.xyz': 'Dawnfrostkey',
   'https://api.lolhuman.xyz': 'RFK-Rey',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
@@ -45,35 +47,39 @@ zekskey = 'apivinz'
 xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
 namaig = 'GAK ADA :)'
-namagithub = 'Privat Syg'
+namagithub = 'https://github.com/MASTERMAN200'
 kasihcaption = `Nih kak`
-namakontak1 = 'Alpin'
+namakontak1 = 'Alpinn'
 namakontak2 = 'Hanii'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = '©AlpinHani' // ganti aja
-global.author = 'AlpinHamni :V' // ganti aja
+global.packname = 'Alpin Botz' // ganti aja
+global.author = 'Alpin Botz' // ganti aja
 
 //yyy
-bc = 'ALPIN' //AlpinHani BOTZ Broadcast
-footer = '\n©AlpinHani Botz'
-namabot = 'AlpinHani Botz'
-namalu = 'Alpinn'
-
+bc = 'AlpinHani' //Alpin Broadcast
+footer = '\n© AlpinHani'
+namabot = 'AlpinHani'
+namalu = 'ALPIN'
+watermark = 'AlpinBotz' //ganti aja
 
 // 
-wait = '_*Tunggu Ajg...*_'
+wait = '_*Tunggu Sebentar...*_'
+global.botwm = 'AlpinBotz'
 global.wait = '_*Tunggu Sebentar...*_'
 global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/FnNAbem8o6r4pgLhSdO8Q9'
 global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fitur ini!\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padany,” \n(TQS. Al-Nur [24]: 30-31).'
 global.eror = '_*Server Error*_'
 
-global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
+global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23101820&text='
+
+// Ubah saja SC dari AlyaaXzy
+global.image = 'https://telegra.ph/file/f96eee5c2c75bd32c1f58.png'//thumbnail
 
 // tingkat kesulitan, semakin tinggi semakin susah
-global.multiplier = 69 // The higher, The harder levelup
+global.multiplier = 40 // The higher, The harder levelup
 
 //*****************PEMBATAS*********************
 // JANGAN DI GANTI NTAR KLO GABISA JAN TANYA GW
