@@ -11,9 +11,9 @@
 // thank you to ALL Bot creator
 // and thanks you to who support my Bot
 
-gc1 = ''
-gc2 = ''
-gc3 = ''
+gc1 = 'https://chat.whatsapp.com/DKfsblwOCTRBa9rrAmI7JA'
+gc2 = 'https://chat.whatsapp.com/DxNnh8RqE4NGjQ2JU2ErY3'
+gc3 = 'https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y'
 global.linkGC = ['https://chat.whatsapp.com/DKfsblwOCTRBa9rrAmI7JA', ''] // ganti jadi group lu
 global.owner = ['6282287750102','6285799743965'] // Put your number here //owner eval
 global.kontak = ['6282287750102','6285799743965'] //Ketika ada yang ngetik #owner
@@ -52,7 +52,7 @@ kasihcaption = `Nih kak`
 namakontak1 = 'Alpinn'
 namakontak2 = 'Hanii'
 
-//kasihcaption = `Nih Kak><`
+//kasihcaption = `Nih Kak`
 
 // Sticker WM
 global.packname = 'Alpin Botz' // ganti aja
@@ -66,9 +66,9 @@ namalu = 'ALPIN'
 watermark = 'AlpinBotz' //ganti aja
 
 // 
-wait = '_*Bentar kak-_...*_'
+wait = '_*Bentar kak...*_'
 global.botwm = 'AlpinBotz'
-global.wait = '_*Bentar kak-_...*_'
+global.wait = '_*Bentar kak...*_'
 global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/FnNAbem8o6r4pgLhSdO8Q9'
 global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fitur ini!\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padany,” \n(TQS. Al-Nur [24]: 30-31).'
 global.eror = '_*Server Error*_'
